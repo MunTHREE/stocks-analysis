@@ -6,9 +6,9 @@ In this project we were tasked with helping Steve analyze DAQO and other green e
 
 ## Results:
 
-![2017](/Users/mitchellmundie/Desktop/VBA_Challenge_2018.jpg)
+![2017](/Users/mitchellmundie/Desktop/VBA_Challenge_2017.jpg "2017")
 
-![2018](/Users/mitchellmundie/Desktop/VBA_Challenge_2018.jpg?raw=true "Title")
+![2018](/Users/mitchellmundie/Desktop/VBA_Challenge_2018.jpg?raw=true "2018")
 
 ## Summary:
 
