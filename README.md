@@ -6,7 +6,9 @@ In this project we were tasked with helping Steve analyze DAQO and other green e
 
 ## Results:
 
+![2017](/Users/mitchellmundie/msu/Module_2/stocks-analysis/VBA_Challenge_2017.png)
 
+![2018](/Users/mitchellmundie/msu/Module_2/stocks-analysis/VBA_Challenge_2018.png?raw=true "Title")
 
 ## Summary:
 
