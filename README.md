@@ -8,7 +8,7 @@ In this project we were tasked with helping Steve analyze DAQO and other green e
 
 ![2017](/Users/mitchellmundie/Desktop/VBA_Challenge_2017.jpg "2017")
 
-![2018](/Users/mitchellmundie/Desktop/VBA_Challenge_2018.jpg?raw=true "2018")
+![2018](https://github.com/MunTHREE/stocks-analysis/blob/main/VBA_Challenge_2017.jpg?raw=true "2018")
 
 ## Summary:
 
