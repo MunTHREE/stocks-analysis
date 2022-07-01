@@ -2,14 +2,10 @@
 
 ## Background:
 
-In this project we were tasked with helping Steve analyze DAQO and other green energy stocks.  We used an extension of excel, VBA, to automate our tasks. This allows to re-use our code for any stock, and not is not just hard-coded for DAQO. This will help minimize human error as the code is much more efficient.
+In this project I analyzed a DAQO and other green energy stocks.  I used an extension of excel, VBA, to automate the tasks. This allowed me to re-use the code for any stock as it was not hard-coded specifically for DAQO. This helps minimize human error and improves efficiency.
 
 ## Results:
 
 ![2017](https://github.com/MunTHREE/stocks-analysis/blob/main/VBA_Challenge_2017.jpg?raw=true "2017")
 
 ![2018](https://github.com/MunTHREE/stocks-analysis/blob/main/VBA_Challenge_2018.jpg?raw=true "2018")
-
-## Summary:
-
-I believe it was beneficial to build a base code for this project and there are advantages to doing so before refactoring.  I think it is important to be able to disect a code and see how one pdata piece is affected before looping it through a whole set.  This can help with formatting and debugging specifically.  This could be a disadvantage, however, if there are issues replacing and updating the new variables that are needed for the refactored code.  I struggled personally to get the refactored working, after success with the 2018 code.
